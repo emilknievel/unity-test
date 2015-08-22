@@ -6,6 +6,7 @@ Obj/
 UnityGenerated/
 Library/
 Assets/AssetStoreTools*
+/[Bb]uild/
 
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
@@ -32,3 +33,6 @@ ExportedObj/
 Icon?
 ehthumbs.db
 Thumbs.db
+
+# Unity3D Generated File On Crash Reports
+sysinfo.txt
